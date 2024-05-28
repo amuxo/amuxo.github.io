@@ -1,0 +1,15 @@
+Body {
+    display: flexbox;
+    flex-direction: row;
+    align-self: center;
+    background-color: black;
+    right:100%;
+    left: 100%;
+    padding-top: 20%;
+}
+
+#focus {
+    text-align: center;
+    font-size: 4pc;
+    color:white;
+}
